@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '57dbbd51fa1e4c628197c0de624ef839',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '云蜂慧谷',
+  domain: 'https://capricious-forger-f16.notion.site/AI-57dbbd51fa1e4c628197c0de624ef839',
+  author: 'BeesDream',
 
   // open graph metadata (optional)
   description: 'Example site description',
